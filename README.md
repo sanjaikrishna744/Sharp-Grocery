@@ -3,14 +3,14 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Traditional online grocery platforms rely on centralized payment systems and do not support blockchain-based digital tokens for everyday purchases. As a result, users are unable to use custom tokens such as **SHARP** for grocery transactions, and vendors lack a transparent and decentralized payment mechanism. There is a need for a **user-friendly online grocery marketplace** that enables customers to purchase daily essentials using **SHARP tokens**, while ensuring **seamless transactions**, **vendor participation**, and an **efficient purchase workflow**.
 
 ---
 
 
-## 📖 Overview
+## Overview
 
 Sharp Grocery is a blockchain-enabled online grocery marketplace that allows users to purchase everyday grocery items using a custom ERC-20 token called **SHARP**.  
 The platform integrates traditional e-commerce functionality with decentralized blockchain payments using MetaMask on the Ethereum Sepolia Test Network.
@@ -19,7 +19,11 @@ This project demonstrates a practical real-world application of Web3 technology 
 
 ---
 
-## 🎯 Objectives
+## Why SHARP Tokens?
+
+SHARP tokens enable decentralized, transparent, and secure payments without relying on traditional centralized payment gateways. Using an ERC-20 token allows direct wallet-to-wallet transactions, reduces intermediaries, and demonstrates a real-world Web3 use case in everyday commerce.
+
+##  Objectives
 
 - Enable grocery purchases using SHARP tokens  
 - Provide a simple and intuitive user interface  
@@ -53,7 +57,7 @@ User
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 ### Frontend
 - React (Vite)
@@ -73,7 +77,7 @@ User
 
 ---
 
-## 🪙 SHARP Token Details
+##  SHARP Token Details
 
 | Attribute | Description |
 |---------|------------|
@@ -138,15 +142,13 @@ The application will run at:
 http://localhost:5173
 ```
 ---
-## Evaluation Focus
+## Hackathon Readiness
 
-1. User friendly interface
-2. Seamless blockchain payment integration
-3. Secure ERC-20 token transactions
-4. Clear vendor payment flow
-5. End to end functional demonstration
-
----
+- Fully functional end-to-end prototype
+- Deployed and tested on Ethereum Sepolia Test Network
+- Easy local setup for evaluators
+- No paid services or private keys required
+- Demonstrates real-world Web3 adoption
 
 
 
