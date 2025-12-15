@@ -150,5 +150,10 @@ http://localhost:5173
 - No paid services or private keys required
 - Demonstrates real-world Web3 adoption
 
+## Workflow video
+
+Project demo video:  
+https://drive.google.com/drive/folders/1bXWIUUFPGoxHu5TaRtJgtPqtdrm5j2f6?usp=sharing
+
 
 
